@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayerEngine.Core", "RolePlayerEngine.Core\RolePlayerEngine.Core.csproj", "{EF791AF4-E40F-4AAD-9DE8-33146FC34D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayerEngine.Inventory", "RolePlayerEngine.Inventory\RolePlayerEngine.Inventory.csproj", "{32BA6B8C-035C-42D4-89C0-79640EA574AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayerEngine.Movement", "RolePlayerEngine.Movement\RolePlayerEngine.Movement.csproj", "{5A0201FE-35CE-4EA2-A1EE-A3F61C4F18C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayerEngine.AI", "RolePlayerEngine.AI\RolePlayerEngine.AI.csproj", "{D941EFC2-E6CA-4578-A4DB-C6FC7923A5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayerEngine.Character", "RolePlayerEngine.Character\RolePlayerEngine.Character.csproj", "{C1E14A27-D974-40B6-ADCB-16B1ABEC86E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF791AF4-E40F-4AAD-9DE8-33146FC34D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF791AF4-E40F-4AAD-9DE8-33146FC34D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF791AF4-E40F-4AAD-9DE8-33146FC34D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF791AF4-E40F-4AAD-9DE8-33146FC34D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BA6B8C-035C-42D4-89C0-79640EA574AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BA6B8C-035C-42D4-89C0-79640EA574AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BA6B8C-035C-42D4-89C0-79640EA574AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BA6B8C-035C-42D4-89C0-79640EA574AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0201FE-35CE-4EA2-A1EE-A3F61C4F18C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0201FE-35CE-4EA2-A1EE-A3F61C4F18C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0201FE-35CE-4EA2-A1EE-A3F61C4F18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0201FE-35CE-4EA2-A1EE-A3F61C4F18C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D941EFC2-E6CA-4578-A4DB-C6FC7923A5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D941EFC2-E6CA-4578-A4DB-C6FC7923A5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D941EFC2-E6CA-4578-A4DB-C6FC7923A5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D941EFC2-E6CA-4578-A4DB-C6FC7923A5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E14A27-D974-40B6-ADCB-16B1ABEC86E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E14A27-D974-40B6-ADCB-16B1ABEC86E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E14A27-D974-40B6-ADCB-16B1ABEC86E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E14A27-D974-40B6-ADCB-16B1ABEC86E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
